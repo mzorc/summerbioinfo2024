@@ -7,6 +7,7 @@
 Summer school will be held from 10-12th July 2024.
 
 **Location**
+
 Department of Animal Science, Biotechnical Faculty, University of Ljubljana, Slovenia
 Groblje 3, 1230 Domžale, Slovenia
 
@@ -17,7 +18,7 @@ The aim of the summer school is to stimulate interest in animal science, genetic
 **Who is this course for?**
 
 Applicants are expected to be at an early stage of using bioinformatics in their research with the need to develop their knowledge and skills further. No previous knowledge of programming is required for this course; group projects may give you the opportunity to learn basic programming, but participants will be supported in this by their mentors.
-**
-Participants**
+
+**Participants**
 
 BSc and MSc students.
